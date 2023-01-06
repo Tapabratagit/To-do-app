@@ -4,5 +4,4 @@ play chess and become pro
 test
 improve  code
 learn gui
-git
-eat
+github
